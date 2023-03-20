@@ -1,0 +1,9 @@
+.hate::before {
+content: 'Наведение';
+}
+
+.hate:hover::before {
+content: 'Текст изменен!';
+opacity: 1;
+}
+  
